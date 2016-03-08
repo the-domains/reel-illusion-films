@@ -2,34 +2,16 @@
     <channel>
         <title><![CDATA[reel illusion films]]></title>
         <description><![CDATA[reel illusion films]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/reel-illusion-films/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 10:27:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 10:39:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reel-illusion-films/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Reel Illusion Films
-was established by the award-winning filmmaker Sidharth Srinivasan as a specialty independent label committed to
-the development, production and dissemination of original films from India.
-Based out of New Delhi, the company’s philosophy is exemplified by an inherent
-desire to push the envelope, whilst simultaneously striving to tell truly
-Indian tales that resonate with an audience for quality World Cinema. As a
-niche outfit, we believe what sets us apart is our ability to create what we
-are passionate about - a unique brand of personal cinema that defies easy
-categorization. Iconoclastic and singular in vision, our films are a testimony
-to what the company stands for… ]]></title>
-            <description><![CDATA[<article><h1>Reel Illusion Films
-was established by the award-winning filmmaker Sidharth Srinivasan as a specialty independent label committed to
-the development, production and dissemination of original films from India.
-Based out of New Delhi, the company’s philosophy is exemplified by an inherent
-desire to push the envelope, whilst simultaneously striving to tell truly
-Indian tales that resonate with an audience for quality World Cinema. As a
-niche outfit, we believe what sets us apart is our ability to create what we
-are passionate about - a unique brand of personal cinema that defies easy
-categorization. Iconoclastic and singular in vision, our films are a testimony
-to what the company stands for… </h1><p>COMPANY PROFILE</p></article>]]></description>
-            <link>undefinedreel-illusion-films-was-established-by-the-award-winning-fil/index.html</link>
+            <title><![CDATA[Reel Illusion Films was established by the award-winning filmmaker Sidharth Srinivasan as a specialty independent label committed tothe development, production and dissemination of original films from India.Based out of New Delhi, the company’s philosophy is exemplified by an inherentdesire to push the envelope, whilst simultaneously striving to tell trulyIndian tales that resonate with an audience for quality World Cinema. As aniche outfit, we believe what sets us apart is our ability to create what weare passionate about - a unique brand of personal cinema that defies easycategorization. Iconoclastic and singular in vision, our films are a testimonyto what the company stands for… ]]></title>
+            <description><![CDATA[<article><h1>Reel Illusion Films was established by the award-winning filmmaker Sidharth Srinivasan as a specialty independent label committed tothe development, production and dissemination of original films from India.Based out of New Delhi, the company’s philosophy is exemplified by an inherentdesire to push the envelope, whilst simultaneously striving to tell trulyIndian tales that resonate with an audience for quality World Cinema. As aniche outfit, we believe what sets us apart is our ability to create what weare passionate about - a unique brand of personal cinema that defies easycategorization. Iconoclastic and singular in vision, our films are a testimonyto what the company stands for… </h1><p>COMPANYPROFILE</p></article>]]></description>
+            <link>https://thegrid.ai/reel-illusion-films/reel-illusion-films-was-established-by-the-award-winning-fil/index.html</link>
             <guid isPermaLink="false">48399834-acd6-46f7-8d4e-5049ff91d0ce</guid>
-            <pubDate>Tue, 08 Mar 2016 10:26:32 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2016 10:37:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
