@@ -1,7 +1,7 @@
 name: reel illusion films
 favicon: null
-layout_spectrum: 0.6331595762167126
-typography_spectrum: 0.7614269608166069
+layout_spectrum: 0.01187
+typography_spectrum: 0.616
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.4867778813932091
-  lightness: 0.972022355068475
-  saturation: 0.772771981311962
-  rhythmicContrast: 0.026204298250377178
+  brandStrength: 0.5
+  lightness: 0.0625
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
