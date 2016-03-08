@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[reel illusion films]]></title>
+        <description><![CDATA[reel illusion films]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Mar 2016 10:27:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reel Illusion Films
+was established by the award-winning filmmaker Sidharth Srinivasan as a specialty independent label committed to
+the development, production and dissemination of original films from India.
+Based out of New Delhi, the company’s philosophy is exemplified by an inherent
+desire to push the envelope, whilst simultaneously striving to tell truly
+Indian tales that resonate with an audience for quality World Cinema. As a
+niche outfit, we believe what sets us apart is our ability to create what we
+are passionate about - a unique brand of personal cinema that defies easy
+categorization. Iconoclastic and singular in vision, our films are a testimony
+to what the company stands for… ]]></title>
+            <description><![CDATA[<article><h1>Reel Illusion Films
+was established by the award-winning filmmaker Sidharth Srinivasan as a specialty independent label committed to
+the development, production and dissemination of original films from India.
+Based out of New Delhi, the company’s philosophy is exemplified by an inherent
+desire to push the envelope, whilst simultaneously striving to tell truly
+Indian tales that resonate with an audience for quality World Cinema. As a
+niche outfit, we believe what sets us apart is our ability to create what we
+are passionate about - a unique brand of personal cinema that defies easy
+categorization. Iconoclastic and singular in vision, our films are a testimony
+to what the company stands for… </h1><p>COMPANY PROFILE</p></article>]]></description>
+            <link>undefinedreel-illusion-films-was-established-by-the-award-winning-fil/index.html</link>
+            <guid isPermaLink="false">48399834-acd6-46f7-8d4e-5049ff91d0ce</guid>
+            <pubDate>Tue, 08 Mar 2016 10:26:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
